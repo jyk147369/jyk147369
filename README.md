@@ -1,4 +1,3 @@
-## Hi there 👋
 
 ## 📌 Main Skills
 #### :computer:&nbsp;Back
@@ -36,6 +35,23 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" style="border-radius: 5px;">
 </div>
 
+## 📌 Profile
+### 📧 Email
+jyk147369@gmail.com
+### 🔎Blog
+https://velog.io/@mainkim/posts
+
+## 📌 Algorithm
+<div align="center">
+  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jyk147369)](https://solved.ac/jyk147369/)
+</div>
+
+## 📌 Github stats
+<div align="center">  
+  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jyk147369&show_icons=true&theme=radical)
+</div>
 
 <!--
 **jyk147369/jyk147369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
