@@ -1,5 +1,7 @@
 
 ## 📌 Main Skills
+<div align="center">
+  
 #### :computer:&nbsp;Back
 <div align="center">
 <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" style="border-radius: 5px;">
@@ -33,6 +35,8 @@
 <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" style="border-radius: 5px;">
 <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" style="border-radius: 5px;">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" style="border-radius: 5px;">
+</div>
+
 </div>
 
 ## 📌 Profile
