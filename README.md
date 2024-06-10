@@ -36,10 +36,15 @@
 </div>
 
 ## 📌 Profile
+<div align="center">
+  
 ### 📧 Email
 jyk147369@gmail.com
+
 ### 🔎Blog
 https://velog.io/@mainkim/posts
+
+</div>
 
 ## 📌 Algorithm
 <div align="center">
